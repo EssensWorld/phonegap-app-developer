@@ -63,9 +63,9 @@
         <resource-file src="google-services.json" target="google-services.json" />
     </platform>
     
-    <preference name="phonegap-version" value="cli-8.1.1" />
-    <engine name="android" spec="~7.1.2" />
-    <engine name="ios" spec="~4.5.5" />
+    <preference name="phonegap-version" value="cli-9.0.0" />
+    <engine name="android" spec="~8.0.0" />
+    <engine name="ios" spec="~5.0.1" />
     <plugin name="cordova-plugin-battery-status" spec="^1.2.5" />
     <plugin name="cordova-plugin-ble-central" spec="^1.1.4">
         <variable name="BLUETOOTH_USAGE_DESCRIPTION" value="Bluetooth development purposes" />
